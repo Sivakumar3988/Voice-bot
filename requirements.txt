@@ -1,0 +1,6 @@
+openai==1.68.2
+streamlit==1.43.2
+speechrecognition
+python-dotenv==1.0.0
+pyaudio==0.2.14
+pipwin==0.5.2
